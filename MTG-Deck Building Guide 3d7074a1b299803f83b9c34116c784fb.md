@@ -28,7 +28,8 @@ To build a proper command deck use the following structures and guidelines.
 
 ### Deck Structure
 
-[Unbenannt](MTG-Deck%20Building%20Guide/Unbenannt%203d8074a1b2998014a6a8cf407cbc8a5a.csv)
+![image.png](MTG-Deck%20Building%20Guide/image%203
+.png)
 
 <aside>
 <img src="https://app.notion.com/icons/info-alternate_gray.svg" alt="https://app.notion.com/icons/info-alternate_gray.svg" width="40px" />
